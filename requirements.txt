@@ -1,0 +1,5 @@
+pynput
+smtplib
+threading
+optparse 
+colorama
